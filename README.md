@@ -2,7 +2,7 @@
 
 > Picking the right architechture = Picking the right battles + Managing trade-offs
 
-## Table of content
+## Table of contents
 * [Basic Steps](#basic-steps)
 * [Key topics for designing a system](#key-topics-for-designing-a-system)
 * [Web App System design considerations](#web-app-system-design-considerations)
