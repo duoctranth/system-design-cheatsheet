@@ -2,6 +2,13 @@
 
 > Picking the right architechture = Picking the right battles + Managing trade-offs
 
+## Table of content
+* [Basic Steps](#basic-steps)
+* [Key topics for designing a system](#key-topics-for-designing-a-system)
+* [Web App System design considerations](#web-app-system-design-considerations)
+* [Working Components of Front-end Architecture](#working-components-of-front-end-architecture)
+* [References](#references)
+
 ## Basic Steps
 
 1) **Clarify and agree on the scope of the system**
